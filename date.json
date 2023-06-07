@@ -1,6 +1,4 @@
-
-{
-  "phones": [
+ [
     {
       "type": "iPhone 13",
       "price": 999.00,
@@ -52,4 +50,4 @@
       "image_url": "https://example.com/nokia_72.jpg"
     }
   ]
-}
+
