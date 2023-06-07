@@ -1,11 +1,55 @@
+
 {
-  "name": "某地区销售数据",
-  "data": [
-    {"year": "2015", "sales": 1200},
-    {"year": "2016", "sales": 1800},
-    {"year": "2017", "sales": 2300},
-    {"year": "2018", "sales": 3000},
-    {"year": "2019", "sales": 3800},
-    {"year": "2020", "sales": 4500}
+  "phones": [
+    {
+      "type": "iPhone 13",
+      "price": 999.00,
+      "image_url": "https://example.com/iphone_13.jpg"
+    },
+    {
+      "type": "Samsung Galaxy S21",
+      "price": 699.99,
+      "image_url": "https://example.com/galaxy_s21.jpg"
+    },
+    {
+      "type": "Google Pixel 5",
+      "price": 599.00,
+      "image_url": "https://example.com/pixel_5.jpg"
+    },
+    {
+      "type": "OnePlus 9 Pro",
+      "price": 899.00,
+      "image_url": "https://example.com/oneplus_9pro.jpg"
+    },
+    {
+      "type": "Xiaomi Mi 11 Ultra",
+      "price": 1199.00,
+      "image_url": "https://example.com/mi_11ultra.jpg"
+    },
+    {
+      "type": "Sony Xperia 1 III",
+      "price": 1299.00,
+      "image_url": "https://example.com/xperia_1iii.jpg"
+    },
+    {
+      "type": "LG V60 ThinQ",
+      "price": 799.00,
+      "image_url": "https://example.com/v60_thinq.jpg"
+    },
+    {
+      "type": "Motorola Moto G Power",
+      "price": 199.99,
+      "image_url": "https://example.com/moto_gpower.jpg"
+    },
+    {
+      "type": "Asus ROG Phone 5",
+      "price": 999.99,
+      "image_url": "https://example.com/rog_phone5.jpg"
+    },
+    {
+      "type": "Nokia 7.2",
+      "price": 299.00,
+      "image_url": "https://example.com/nokia_72.jpg"
+    }
   ]
 }
